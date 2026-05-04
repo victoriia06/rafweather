@@ -6,10 +6,10 @@ import random
 
 # --- НАСТРОЙКИ ---
 # Твой новый токен
-TOKEN = "8675225409:AAH4j_7hccAx4ZHAilNc-dE09uUgZKy-iPU" 
+TOKEN = "" 
 
 # Твой Chat ID (получить через https://api.telegram.org/bot<ТОКЕН>/getUpdates)
-CHAT_ID = "565072593" 
+CHAT_ID = "" 
 
 def get_weather():
     """Узнаем погоду через Open-Meteo (без API ключей и регистраций!)"""
